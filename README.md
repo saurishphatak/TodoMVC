@@ -4,7 +4,7 @@ This is a simple implementation of Todo using MVC (Model - View - Component) arc
 
 The project uses ExpressJS on the backend as a Web - Server and MySQL DB as the Database.
 
-NOTE : The project uses Synchronous driver for MySQL (which is not a good idea 😉)
+### <b> NOTE : The project uses Synchronous driver for MySQL (which is not a good idea 😉)</b>
 
 
 # Quick Start
