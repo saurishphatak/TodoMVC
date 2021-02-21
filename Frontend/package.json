@@ -1,9 +1,8 @@
 {
-  "name": "backend",
+  "name": "frontend",
   "version": "1.0.0",
-  "description": "Backend of Todo MVC Web App",
+  "description": "Frontend of Todo MVC Web App",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
