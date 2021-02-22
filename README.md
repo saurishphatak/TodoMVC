@@ -1,6 +1,6 @@
 # Todo MVC App
 
-This is a simple implementation of Todo using MVC (Model - View - Component) architecture.
+This is a simple implementation of Todo using MVC (Model - View - Controller) architecture.
 
 The project uses ExpressJS on the backend as a Web - Server and MySQL DB as the Database.
 
